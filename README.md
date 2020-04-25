@@ -8,6 +8,7 @@ The officers and cadets have no liability for active military service once they 
 
 # Installation or Demo
 If you don't know, how to setup this project on your localhost then watch this youtube video:
+https://youtu.be/9nnFzINGQk4
 
 # Technologies Used
 1. PHP
